@@ -1,6 +1,7 @@
-#ASR
+# ASR
 
-###Características:
+
+## Características:
 
 - Inputs
     - asrSelector: El selector universal
@@ -20,4 +21,4 @@
     - Creación de Formularios (Plantillas Configurables)
     - Creación de Tablas Con REST
 
-# ASR
+
