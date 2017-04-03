@@ -20,5 +20,3 @@
     - Manejo de Fechas
     - Creación de Formularios (Plantillas Configurables)
     - Creación de Tablas Con REST
-
-
